@@ -6,7 +6,7 @@ import ProductFilters from './ProductFilters';
 import ProductDetailsModal from './ProductDetailsModal';
 import './ProductList.css';
 
-const API_URL = 'http://localhost:3001/products';
+const API_URL = 'https://688cc0f5cd9d22dda5ce5d4a.mockapi.io/lista-produtos/products';
 
 const ProductList = () => {
   const [products, setProducts] = useState([]);
