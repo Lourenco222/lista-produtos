@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 14 Pro",
+      "price": 8999,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-1-202209?wid=512&hei=512&fmt=jpeg&qlt=95&.v=1660753619946"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": 7499,
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/br/2302/gallery/br-galaxy-s23-ultra-s918-sm-s918bzkgzto-thumb-534678237?"
+    },
+    {
+      "id": 3,
+      "name": "Apple MacBook Air M2",
+      "price": 10999,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-m2-202206-gallery1?wid=512&hei=512&fmt=jpeg&qlt=95&.v=1653493200207"
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM5",
+      "price": 2499,
+      "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Apple AirPods Pro (2ª geração)",
+      "price": 1899,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQD83?wid=512&hei=512&fmt=jpeg&qlt=95&.v=1660803972361"
+    },
+    {
+      "id": 6,
+      "name": "Dell XPS 13 Plus",
+      "price": 9999,
+      "image": "https://i.dell.com/sites/csimages/Video_Imagery/all/xps-13-9320-laptop-campaign-hero-504x350-ng.psd"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy Tab S8",
+      "price": 4999,
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/br/sm-x700nzaazto/gallery/br-galaxy-tab-s8-x700-sm-x700nzaazto-thumb-530678237?"
+    },
+    {
+      "id": 8,
+      "name": "Kindle Paperwhite 11ª Geração",
+      "price": 649,
+      "image": "https://m.media-amazon.com/images/I/61nPiOO2wPL._AC_SL1000_.jpg"
+    }
+  ]
+}
